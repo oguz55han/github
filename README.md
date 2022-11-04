@@ -2,4 +2,4 @@
 
 #merhabalar
 
-##fisrt pool command
+##fisrt pull command
